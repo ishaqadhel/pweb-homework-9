@@ -8,4 +8,6 @@
         require_once 'classes/' .$class. '.php';
     }
     );
+
+    $student = new Student();
 ?>
